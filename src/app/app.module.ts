@@ -6,7 +6,7 @@ import { CommonModule } from '@angular/common';
 import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 
 import { AppComponent } from './app.component';
-import { DicomViewerModule } from 'dicomViewer'
+import { DicomViewerModule } from 'ng-dicomviewer';
 
 @NgModule({
   declarations: [
